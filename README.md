@@ -1,2 +1,5 @@
 # examen_inegrador
-Lara Tula 
+Tula Lara 
+Escalante Matias
+Leidy Johanna Madrid 
+
